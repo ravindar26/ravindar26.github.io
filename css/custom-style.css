@@ -1,0 +1,35 @@
+.profile-pic{
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+}
+.custom-navbar-header{
+	padding-left: 5%;
+
+}
+.img-circle {
+    border-radius: 50%;
+}
+.social-icon{
+	padding: 20px;
+}
+.bg-1{
+	background-color: #ffffff;
+}
+.navy-line{
+	width: 70px;
+	height: 1px;
+	margin: 60px auto 0;
+	border-bottom: 2px solid #3386FF;
+
+}
+.custom-header{
+	padding: 10px;
+	font-size: 30px;
+	font-weight: 200;
+	font-family: inherit;
+
+}
+#my-career{
+	background-color:  #e9f0f5;
+}
